@@ -1,6 +1,12 @@
-# artists
+# Meet-Artists
 
-A new Flutter project.
+**Creative UI Design in Flutter**
+
+![Slide 16_9 - 1](https://user-images.githubusercontent.com/68671238/131491395-8712ccdc-f874-4347-b4ef-492ffcb246c6.png)
+
+If you like my work, don't hesitate to give a **star** and **support me** to do more, and **thanks**!
+
+- Feel free to [**Subscribe**](https://www.youtube.com/channel/UC2PhG56Owj3JtKBug7zkBWw) to my [YouTube](https://www.youtube.com/channel/UC2PhG56Owj3JtKBug7zkBWw) channel to stay updated with more cool tutorials
 
 ## Getting Started
 
